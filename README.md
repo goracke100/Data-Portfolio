@@ -7,3 +7,5 @@ This portfolio contains different projects I have completed during my time in sc
 
 - Uber_EDA is a project I did outside of school using a dataset found on Kaggle. I wanted to practice my skills so that I would not lose them. This file I have begun to clean the dataset, removing duplicates,
   addressing null values, and ensuring consistent formatting. I also used this as an opportunity to begin creating reusable functions that can be applied to other projects with little adjustments needed.
+
+- AddressingDefectsPresentation is part of a project I completed in one of my final terms at SNHU. We were tasked with assessing an increase in defects across three different models of electronic boards. This was done   with the use of Pareto charts and ANOVA testing. One downfall is that we were given different datasets, the first datasets used for the Pareto charts gave us the actual model numbers, while the next datasets gave us   descriptions such as Model 1, Model 2, Model 3. This made it virtually impossible to tie together the findings of the Pareto charts with the findings of the ANOVA tests.
